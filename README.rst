@@ -8,6 +8,7 @@ Python reader for SAS XPORT data transport files (``*.xpt``).
 
 What's it for?
 ==============
+**This is a fork of the XPORT package that allows for the conversion of SEND (Standard for the Exchange of Nonclinical Data) XPT files to tab-delimited format, along with other enhancement
 
 XPORT is the binary file format used by a bunch of `United States
 government agencies`_ for publishing data sets. It made a lot of sense
